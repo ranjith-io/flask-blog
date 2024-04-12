@@ -31,15 +31,15 @@ class post(db.Model):
 
 posts=[
     {
-        'author' :'ranjith',
+        'author' :'Ranjith',
         'title' :'first_blog',
         'content':'first blog created for learning',
         'date_posted':'20.03.24'
         },{
-        'author':'new',
+        'author':'Myself',
         'title':'Mine',
-        'content':'second thing to write',
-        'date_posted':'20.03.24'
+        'content':'Second thing to write',
+        'date_posted':'12.04.24'
     }
 ]
 @app.route("/")
