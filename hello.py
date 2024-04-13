@@ -37,8 +37,8 @@ posts=[
         'date_posted':'20.03.24'
         },{
         'author':'Myself',
-        'title':'Mine',
-        'content':'Second thing to write',
+        'title':'Success',
+        'content':'Its quite easy',
         'date_posted':'12.04.24'
     }
 ]
