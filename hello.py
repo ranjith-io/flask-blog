@@ -38,7 +38,7 @@ posts=[
         },{
         'author':'Myself',
         'title':'Success',
-        'content':'Its quite easy',
+        'content':'I have no other way',
         'date_posted':'14.04.24'
     }
 ]
